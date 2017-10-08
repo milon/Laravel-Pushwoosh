@@ -1,5 +1,5 @@
 {
-    "name": "hoy/pushwoosh",
+    "name": "milon/pushwoosh",
     "description": "A Pushwoosh bridge for Laravel",
     "license": "MIT",
     "keywords": ["pushwoosh", "push", "notification", "hoy", "laravel"],
@@ -7,6 +7,10 @@
         {
             "name": "Vincent Klaiber",
             "email": "vincent@hoy.se"
+        },
+        {
+            "name": "Nuruzzaman Milon",
+            "email": "contact@milon.im"
         }
     ],
     "require": {
