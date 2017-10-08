@@ -17,7 +17,7 @@
         "php": "^5.6.4 || ^7.0",
         "illuminate/contracts": "5.4.* || 5.5.*",
         "illuminate/support": "5.4.* || 5.5.*",
-        "graham-campbell/manager": "^2.4",
+        "graham-campbell/manager": "^3.0",
         "gomoob/php-pushwoosh": "^1.1"
     },
     "require-dev": {
